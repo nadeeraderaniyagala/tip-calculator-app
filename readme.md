@@ -1,7 +1,7 @@
 # Tip Calculator App
 
 ## User interface when the app starts:
-![start](images/Screenshot 2024-01-18 at 11.35.30 AM.png?raw=true)
+![start](images/Screenshot 2024-01-18 at 11.35.30 AM.png?raw=true "start")
 
 
 ## User types in 100 in the Bill Amount
