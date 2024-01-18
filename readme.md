@@ -1,7 +1,6 @@
 # Tip Calculator App
 
 ## User interface when the app starts:
-![](/images/Screenshot 2024-01-18 at 11.35.30 AM.png)
 ![start](images/Screenshot 2024-01-18 at 11.35.30 AM.png?raw=true)
 
 
