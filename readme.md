@@ -3,17 +3,15 @@
 ## User interface when the app starts:
 ![start](./images/start-app.png)
 
-
 ## User types in 100 in the Bill Amount
-![](images/Screenshot 2024-01-18 at 11.35.52 AM.png)
+![](images/100.png)
 
 ## User clicks + button one time:
-![](images/Screenshot 2024-01-18 at 11.36.02 AM.png)
+![](images/plus.png)
 
 ## User clicks - button two times:
-![](images/Screenshot 2024-01-18 at 11.36.10 AM.png)
+![](images/minus.png)
 
 ## Landscape orientation:
-
-![](images/Screenshot 2024-01-18 at 11.08.35 AM.png)
+![](images/landscape.png)
 
