@@ -1,17 +1,20 @@
 # Tip Calculator App
 
-## User interface when the app starts:
-![start](./images/start-app.png)
+User types in 100 in the Bill Amount
 
-## User types in 100 in the Bill Amount
-![](images/100.png)
+<img src="images/100.png" width="200"/>
 
-## User clicks + button one time:
-![](images/plus.png)
 
-## User clicks - button two times:
-![](images/minus.png)
+User clicks + button one time:
 
-## Landscape orientation:
-![](images/landscape.png)
+<img src="images/plus.png" width="200"/>
 
+
+User clicks - button two times:
+
+<img src="images/minus.png" width="200"/>
+
+
+Landscape orientation:
+
+<img src="images/landscape.png" width="200"/>
