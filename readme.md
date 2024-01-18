@@ -17,4 +17,4 @@ User clicks - button two times:
 
 Landscape orientation:
 
-<img src="images/landscape.png" width="200"/>
+<img src="images/landscape.png" width="400"/>
