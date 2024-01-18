@@ -2,7 +2,7 @@
 
 ## User interface when the app starts:
 ![](/images/Screenshot 2024-01-18 at 11.35.30 AM.png)
-
+![](images/Screenshot 2024-01-18 at 11.35.30 AM.png)
 ## User types in 100 in the Bill Amount
 ![](images/Screenshot 2024-01-18 at 11.35.52 AM.png)
 
