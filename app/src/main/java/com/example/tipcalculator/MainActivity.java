@@ -1,5 +1,6 @@
 package com.example.tipcalculator;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
@@ -44,8 +45,27 @@ public class MainActivity extends AppCompatActivity implements TextView.OnEditor
         billAmountEditTxt.setOnEditorActionListener(this);
         minusBtn.setOnClickListener(this);
         plusBtn.setOnClickListener(this);
+    }
 
+    @Override
+    protected void onSaveInstanceState(@NonNull Bundle outState) {
+        super.onSaveInstanceState(outState);
 
+        outState.putString("billAmountString", billAMountString);
+        outState.putFloat("tipPercent", tipPercent);
+    }
+
+    @Override
+    protected void onRestoreInstanceState(@NonNull Bundle savedInstanceState) {
+        super.onRestoreInstanceState(savedInstanceState);
+
+        if(savedInstanceState !=null){
+            billAMountString = savedInstanceState.getString("billAmountString", "");
+            tipPercent = savedInstanceState.getFloat("tipPercent", 0.15f);
+
+            billAmountEditTxt.setText(billAMountString);
+            calculateDisplay();
+        }
     }
 
     public void calculateDisplay() {
